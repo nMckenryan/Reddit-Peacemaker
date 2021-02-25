@@ -3,8 +3,12 @@
 
     //Removing 'Drafts' Interface
     try {
-        $("i").replaceWith( " " );
-        console.log($("i:contains(icon icon-upvote)"));
+        //$('i').hide().css("visibility", "hidden");
+        //$('.DraftEditor-root').hide().css("contenteditable", "false");
+        // $('div[id^="vote-arrows"]').css("visibility", "hidden");
+        $('div[class ="_3KgrO85L1p9wQbgwG27q4y"]').css("visibility", "hidden"); //Gets rid of bar underneath Comments. 
+        
+        console.log($("i"));
     } catch(err) {
         console.log("ERROR BLOCKING CONTENT: " + err);
     }
