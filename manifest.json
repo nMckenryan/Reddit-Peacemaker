@@ -9,11 +9,24 @@
         "48": "icon48.png",
         "128": "icon128.png"
     },    
+
+    "browser_action": {
+        "default_icon": {                   
+            "16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"  
+        }
+      },
+      
+  "permissions": [
+    "*://reddit.com/*"
+  ],
     
     "content_scripts": [
         {
             "matches": ["*://*.reddit.com/*"],
-            "js": ["content.js"]
+            "js": ["jquery.min.js", "content.js"],
+            "run_at": "document_end"
         }
     ],
 
