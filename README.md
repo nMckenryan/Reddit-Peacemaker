@@ -1,4 +1,4 @@
-#REDDIT PEACEMAKER
+# REDDIT PEACEMAKER
 
 An extension that prevents you in getting in dumb arguments with cretins on Reddit.
 
