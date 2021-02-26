@@ -4,4 +4,4 @@
 
 - Yells at you for navigating to Reddit.
 - Blocks you from Commenting.
-- Removes Upvotes.
+- Hides Upvotes/Downvotes, Reply Button etc
