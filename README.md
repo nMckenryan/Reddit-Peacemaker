@@ -8,4 +8,4 @@
 - Retains your ability to create new posts, so you can ask for homework help like a good girl/boy/enby
 - Mildy Amusing Avatar
 
-Available on the Chrome Extension Store: 
+Available on the Chrome Extension Store: https://chrome.google.com/webstore/detail/reddit-peacemaker/piopibnnjghpenhhegklpdgmccminaen?hl=en-GB&authuser=0
